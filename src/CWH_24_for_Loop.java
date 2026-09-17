@@ -15,10 +15,8 @@ public class CWH_24_for_Loop {
 //        }
 
 //        Quick Quiz:-
-        for(int n = 100; n >= 0; n--){
+        for (int n = 100; n >= 0; n--) {
             System.out.println(n);
         }
     }
 }
-
-

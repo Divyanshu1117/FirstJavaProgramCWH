@@ -1,6 +1,7 @@
 import java.util.Scanner;
+
 public class CWH_05_TakingInput {
-    public static void main(String [] args){
+    public static void main(String[] args) {
         System.out.println("Taking Input From The User");
         Scanner sc = new Scanner(System.in);
 //        System.out.println("Enter Number 1:-");

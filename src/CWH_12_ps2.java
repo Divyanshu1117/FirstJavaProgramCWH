@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class CWH_12_ps2 {
     public static void main(String[] args) {
 //    Q1:-
@@ -31,6 +32,5 @@ public class CWH_12_ps2 {
         int x = 7;
         int a = 7 * 49 / 7 + 35 / 7;
         System.out.println(a);
-
-}
+    }
 }

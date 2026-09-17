@@ -1,4 +1,5 @@
 public class CWH_31_Methods {
+
     static int logic(int x, int y) {
         int z;
         if (x > y) {
@@ -8,6 +9,7 @@ public class CWH_31_Methods {
         }
         return z;
     }
+
     public static void main(String[] args) {
         int a = 5;
         int b = 7;
@@ -22,6 +24,5 @@ public class CWH_31_Methods {
         c1 = logic(a1, b1);
         System.out.println(c);
         System.out.println(c1);
-
     }
 }

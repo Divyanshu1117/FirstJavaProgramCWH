@@ -1,5 +1,5 @@
 public class CWH04_literals {
-    public static void main(String [] args){
+    public static void main(String[] args) {
         byte age = 34;
         int age2 = 56;
         short age3 = 55;
@@ -10,6 +10,5 @@ public class CWH04_literals {
         boolean a = true;
         String str = "Harry";
         System.out.println(str);
-
     }
 }

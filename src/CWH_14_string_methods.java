@@ -45,7 +45,5 @@ public class CWH_14_string_methods {
         System.out.println("I am escape sequence \' SQ");
         System.out.println("I am escape sequence \" DQ");
         System.out.println("I am escape sequence \\ BS");
-
     }
-
 }

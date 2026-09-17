@@ -51,16 +51,15 @@ public class CWH_24_break_and_continue {
 //        }
 
 //        Do_While Loop:-
-       int i = 0;
-       do{
-       i++;
-            if(i == 2)
-            {
+        int i = 0;
+        do {
+            i++;
+            if (i == 2) {
                 System.out.println("Ending The Loop:-");
                 continue;
             }
             System.out.println(i);
             System.out.println("Java Is Great! ");
-        }while(i < 5);
+        } while (i < 5);
     }
 }

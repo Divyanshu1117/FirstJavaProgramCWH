@@ -45,7 +45,7 @@ public class CWH_25_practice_set_5 {
 //        }
 //        System.out.println("Factorial Of " + n + " is : " + factorial);
 
-       // Practice Problem 6:-
+        // Practice Problem 6:-
 //       int n = 5;
 //       // What Is Factorial n = n * n - 1 * n - 2 ...... 1 :-
 //       // 5! = 5 * 4 * 3 * 2 * 1 = 120.
@@ -94,5 +94,5 @@ public class CWH_25_practice_set_5 {
 //        }
 //        System.out.print("Sum Of Even NUmber Is:- ");
 //        System.out.println(sum + ".");
-        }
     }
+}

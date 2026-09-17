@@ -33,10 +33,10 @@ public class CWH_27_arrays {
 
 //        For Each Loop:-
 //        Displaying The Array (For-Each Loop):-
-//        System.out.println("Printing Using For- Each Loop:-");
-          int [] marks = {99, 45, 79, 99, 80};
-          for(int element: marks){
-          System.out.println(element);
-          }
+//        System.out.println("Printing Using For-Each Loop:-");
+        int[] marks = {99, 45, 79, 99, 80};
+        for (int element : marks) {
+            System.out.println(element);
+        }
     }
 }

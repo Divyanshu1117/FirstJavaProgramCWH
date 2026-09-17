@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class CWH_11_ex_solution {
     public static void main(String[] args) {
         System.out.println("Please Enter Your Marks:-");

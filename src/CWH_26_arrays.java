@@ -23,7 +23,7 @@ public class CWH_26_arrays {
 //        System.out.println(marks[2]);
 
         // 3. Declaration, Memory Allocation And Initialization Together:-
-        int [] marks = {98, 45, 79, 99, 80};
+        int[] marks = {98, 45, 79, 99, 80};
         System.out.println(marks[4]);
     }
 }

@@ -1,6 +1,7 @@
 import java.util.Scanner;
+
 public class Exercise1 {
-    public static void main(String [] args){
+    public static void main(String[] args) {
         System.out.println("Please Enter Your Marks:-");
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Your English Marks:-");
@@ -14,7 +15,7 @@ public class Exercise1 {
         System.out.print("Enter Your G.K Marks:-");
         int e = sc.nextInt();
         int sum = a + b + c + d + e;
-        double percentage  = (sum/500.0) * 100;
+        double percentage = (sum / 500.0) * 100;
         System.out.println("This Is Your Percentage:-");
         System.out.println(percentage);
     }

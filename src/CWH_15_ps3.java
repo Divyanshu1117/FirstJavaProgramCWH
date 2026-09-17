@@ -7,7 +7,7 @@ public class CWH_15_ps3 {
 
 //        Q2:-
         String text = "To Lower Case";
-        text = text.replace(" ","_");
+        text = text.replace(" ", "_");
         System.out.println(text);
 
 //        Q3:-

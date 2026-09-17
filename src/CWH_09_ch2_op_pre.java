@@ -43,9 +43,5 @@ public class CWH_09_ch2_op_pre {
         int d = 15;
         int k = a * b - d;
         System.out.println(k);
-
-
-
-
     }
 }

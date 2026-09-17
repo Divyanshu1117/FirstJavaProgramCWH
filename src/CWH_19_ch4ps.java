@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class CWH_19_ch4ps {
     public static void main(String[] args) {
 

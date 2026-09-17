@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class CWH_Ch1_PS {
     public static void main(String[] args) {
 //        Question:- 1

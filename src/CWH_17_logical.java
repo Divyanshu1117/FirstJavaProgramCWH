@@ -11,7 +11,6 @@ public class CWH_17_logical {
 //            System.out.println("N");
 //        }
 
-
 //        System.out.println("For Logical OR:-");
 //        boolean a1 = true;
 //        boolean b1 = false;
@@ -22,7 +21,6 @@ public class CWH_17_logical {
 //        {
 //            System.out.println("N");
 //        }
-
         System.out.println("For Logical NOT:-");
         System.out.print("Not(a) is:- ");
         System.out.println(!a);
