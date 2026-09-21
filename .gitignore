@@ -1,20 +1,35 @@
-# IntelliJ IDEA
+### IntelliJ IDEA ###
 .idea/
 *.iml
 
-# IntelliJ compiled output
+### Compiled Java files ###
 out/
-
-# Java compiled files
 *.class
 
-# Build folders
+### Build folders ###
 target/
 build/
 
-# OS files
+### Eclipse ###
+.classpath
+.project
+.settings/
+.apt_generated/
+.factorypath
+.springBeans
+.sts4-cache
+bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### OS ###
 .DS_Store
 Thumbs.db
-
-# VS Code
-.vscode/
