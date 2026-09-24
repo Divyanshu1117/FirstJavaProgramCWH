@@ -1,4 +1,4 @@
-package codewithdivyanshu;
+package CWH_65_packages.codewithdivyanshu;
 
 public class Divyanshu {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-import codewithdivyanshu.gym.DivyanshuGym;
+import CWH_65_packages.DivyanshuGym;
 
 public class UsingPackage {
     public static void main(String[] args) {
